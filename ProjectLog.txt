@@ -1,0 +1,37 @@
+
+7/15/2014
+- Davidson: Created project log
+- Davidson: work plan and Work break down structure for project 
+- Davidson: set initial milestones
+
+7/16/2014
+-Davidson: Created use cases: 'Search For Student', 'Create Assessment', 
+-Davidson: Started use case: 'Mark Assessment'
+
+7/17/2014
+- Cedric: Began use of the project log
+-Davidson & Cedric: Created a preliminary use case disagram
+-Davidson & Cedric: Discussed and edited use case: 'Search for Student'
+
+7/19/2014
+- Davidson: Completed use case: 'Mark Assessment'
+- Davidson: Started use case 'Create Lesson Plan'
+
+7/20/2014
+- Davidson: Changed use case name from 'Create Lesson Plan' to 'Add lesson Plan'
+- Davidson: Altered view graphic of project Gannt chart
+- Davidson: Completed 'Add Lesson Plan'
+- Davidson: Created use case 'View Course Offering'
+
+7/22/2014
+- Cedric & Davidson: Started use case: AddTeachertoSystem
+- Cedric & Davidson: Created robustness diagram for use case ViewCourseOffering
+- Cedric & Davidson: Updated Class-responsibility list
+- Cedric: Sketched initial mockup of AddTeachertoSystem screen
+- Cedric & Davidson: Reviewed use case: ViewCourseOffering
+
+
+
+
+
+
