@@ -1,0 +1,31 @@
+Glossary
+
+Student
+A student is a child who attends the school
+
+Teacher
+A teacher is an employee of the school who has been given permission to teach one or more students
+
+Level
+Synonynms: grade, form, year
+A level is a classifier for how advanced work will be
+
+Course
+Synonyms: class
+A course is a syllabus and an assigned teacher
+
+Class
+A class is a group of students being taught a course
+
+Syllabus
+A syllabus is a group of topics set for a particular level
+
+Assessment
+An assessment is any of a variety of tools used to receive feedback on student learning outcomes (test,homework,exam).
+They are associated with one course and are administered by a teacher to a group of students
+
+
+1. How is the content described by a syllabus called?
+2. How do we differentiate between the descriptive content and the actual delivery in a given year/semester/term.
+3. How do we differentiate between number 2 and the delivery being done by two different teachers.  
+4. The rooms can change they are assignments. More important for presence of the student.

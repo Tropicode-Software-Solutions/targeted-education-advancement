@@ -1,0 +1,14 @@
+Minutes:
+
+- Cedric suggested name change 'Teacher Assistance System' to 'EMIS for Us'
+		reason: EMIS identified with as an education management information system and 'us' 		identifies who will be served by the system it insinuates that the needs of every group will be 	addressed by the system
+
+- Set up schedule to work consistently on 'EMIS for Us' / 'TASS'
+
+- Initial schedule set as : tuesday, wednesday, thursday from 7:15 to 8:15 (not strict)
+
+Work Done:
+
+Initial work on use cases
+  
+

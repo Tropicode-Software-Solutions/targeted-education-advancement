@@ -1,0 +1,47 @@
+Name:
+
+EMIS for US
+
+or
+
+TASS (Teacher Assistance System)
+
+or 
+
+targeted-education-advancement
+
+or
+
+(Enter Suggestion Here)
+
+About:
+
+The project is about building a comprehensive solution for Caribbean teachers with a focus on allowing them to evaluate their students via data visualization (bar charts/line charts etc) to improve their efficiency in planning and teaching.
+
+Tools:
+
+As with all of our projects we are stressing online collaboration:
+
+* For collaborative architectural design we are using the free tool available at www.draw.io 
+
+Set up: 	- To set it up you will need a dropbox account
+		- The online tool will create a folder called 'app' in which it will 			save all working versions of your diagrams. This folder cannot be 			shared otherwise we would have simply shared tropicode's app folder 			with you	 
+		- This means that your diagrams will only be visible to you
+		- To allow the rest of the team to access you work/changes youve made 			to already existing diagrams you must save the diagrams in the shared 			dropbox folder 'Software development'
+ 		-Exact locations will change but for example, class diagram versions 			are stored at Software Development\Projects\
+		Emis for us\Development\Architecture\Class diagram development
+
+		- Save stable versions as a .jpg
+		- Save working versions as .xml (so that it can be reopened/edited with 		the draw.io tool)
+
+
+* For collaborative coding we may use either www.github.com or www.cloudforge.com not yet decided (you will be updated but feel free to give input)
+
+* For local development we intend to use (Not yet decided)
+
+- Netbeans IDE 8.0
+- Glassfish 4.0
+- PrimeFaces
+- Java EE 7 or 8
+
+
